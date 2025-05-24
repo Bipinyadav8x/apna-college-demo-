@@ -1,5 +1,5 @@
 # apna-college-demo-
-auther- me.
+auther- hello.
 <br>
 this is my first repo
 
